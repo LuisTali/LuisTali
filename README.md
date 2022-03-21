@@ -3,7 +3,7 @@
 - 🎓 Currently studying second year of University Technician in Programming
 - 👀 I’m interested in Mobile Device Apps Development .
 - 🌱 I’m currently learning Android Application Development on Kotlin and Programmation Orientated to Objects on Java.
-- 💞️ I’m looking to collaborate on a company or a TeamGroup where i can learn more and become more professional.
+- 💞️ I’m looking to collaborate on a company or a TeamGroup where i can learn and become more professional.
 - 📫 You can reach on my Instagram or via eMail.
 
 <!---
