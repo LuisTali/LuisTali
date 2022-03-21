@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisTali.
-- 🇦🇷  I’m from Argentina.
+- 🇦🇷   I’m from Argentina.
 - 🎓 Currently studying second year of University Technician in Programming
 - 👀 I’m interested in Mobile Device Apps Development .
 - 🌱 I’m currently learning Android Application Development on Kotlin and Programmation Orientated to Objects on Java.
