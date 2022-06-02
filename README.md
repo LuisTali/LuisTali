@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LuisTali.
 - 🇦🇷   I’m from Argentina.
 - 🎓 Currently studying second year of University Technician in Programming
-- 👀 I’m interested in Mobile Device Apps Development .
-- 🌱 I’m currently learning Android Application Development on Kotlin and Programmation Orientated to Objects on Java.
-- 💞️ I’m looking to work in a company or a TeamGroup where i can learn and become more professional.
+- 👀 I’m interested in BackEnd and Mobile Device Apps Development .
+- 🌱 I’m currently learning Programmation Orientated to Objects on Java.
+- 💞️ I’m looking to work in a company or a TeamGroup where i can learn and grow professionally.
 - 📫 You can reach on my Instagram or via eMail.
 
 <!---
