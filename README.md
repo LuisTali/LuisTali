@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luis Taliercio.
-- 🇦🇷  I’m from Argentina.
+- 🇦🇷 I’m from Argentina.
 - 🎓 I’m Advanced Student of University Technician in Programming.
 - 🌱 Java, PHP, HTML and CSS mastery.
 - 👀 I’m interested in Mobile Device Apps Development.
