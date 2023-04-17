@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Luis Taliercio.
-- 🇦🇷 I’m from Argentina.
+- 🇦🇷  I’m from Argentina.
 - 🎓 I’m Advanced Student of University Technician in Programming.
 - 🌱 Javascript, Java, PHP, HTML, CSS, SQL Server and MySQL mastery.
-- 👀 I’m interested in Mobile Device Apps Development.
-- 💞️ I’m looking to work in a company or a TeamGroup where i can learn and grow professionally.
+- 👀 I am interested in developing myself as a full stack programmer
+- 💞️ I’m looking to work in a TeamGroup where i can learn and grow professionally.
 - 📫 You can reach on my Instagram or via eMail.
 
 <!---
