@@ -4,7 +4,7 @@
 - 🌱 Javascript, Node.js, React.js, Java, PHP, HTML, CSS, SQL Server and MySQL mastery.
 - 👀 I am interested in developing myself as a full stack programmer
 - 💞️ I’m looking to work in a TeamGroup where i can learn and grow professionally.
-- 📫 You can reach on my Instagram or via eMail.
+- 📫 You can reach me on my Instagram or via eMail.
 
 <!---
 LuisTali/LuisTali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
